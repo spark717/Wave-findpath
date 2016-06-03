@@ -7,7 +7,7 @@ Instruction:
 <br>
 By mouse left click place walls on game field;
 <br>
-Press button "Set start" to set start point;
+Press button "Set start" and set start point by mouse left click;
 <br>
 Press "Find path".
 
